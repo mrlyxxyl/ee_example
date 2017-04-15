@@ -14,5 +14,13 @@
             <artifactId>jxls-core</artifactId>
             <version>1.0.6</version>
         </dependency>
+
+        <!--生成pdf-->
+        <dependency>
+            <groupId>com.lowagie</groupId>
+            <artifactId>itext</artifactId>
+            <version>4.2.2</version>
+        </dependency>
+        <!--生成pdf-->
     </dependencies>
 </project>
